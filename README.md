@@ -39,13 +39,12 @@ Like everyone in tech, I'm a lifelong learner. I really enjoy scripting and auto
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/jmayco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmayco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmayco&layout=compact&theme=dracula"/>
-  </a>
-</div>
+*"I know this is useless, I just added it because I thought it looked cool." -JMayco*
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmayco&theme=dracula&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmayco&theme=dracula" alt="Detalhes do Perfil" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmayco&theme=dracula&hide_border=true" alt="Sequência de dias (Streak)" />
+</p>

@@ -1,6 +1,6 @@
-# Hey there! 👋
+# Hey there!
 
-### Information Security Intern
+### I'm an Information Security Intern
 **Americana, São Paulo - Brazil** 🇧🇷
 
 ---

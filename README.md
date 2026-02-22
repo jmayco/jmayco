@@ -24,16 +24,21 @@ Like everyone in tech, I'm a lifelong learner. I really enjoy scripting and auto
 ## 🛠️ Arsenal and Technologies
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NetLogo](https://img.shields.io/badge/NetLogo-gray?style=for-the-badge)
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Shell Script" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="SQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="NetLogo" height="60" width="200" src="https://img.shields.io/badge/NetLogo-gray?style=for-the-badge" />
+</div>
 
 ### Operating Systems
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Crunchbang++](https://img.shields.io/badge/Crunchbang++-2C2C2C?style=for-the-badge&logo=linux&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img alt="Debian" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+  <img alt="Crunchbang++" height="80" width="80" src="https://img.shields.io/badge/-_?style=flat-square&logo=linux&logoColor=white&color=2C2C2C" />
+  <img alt="Kali Linux" height="80" width="80" src="https://img.shields.io/badge/-_?style=flat-square&logo=kalilinux&logoColor=white&color=557C94" />
+  <img alt="Tails" height="80" width="80" src="https://img.shields.io/badge/-_?style=flat-square&logo=tails&logoColor=white&color=56347C" />
+  <img alt="Parrot OS" height="80" width="80" src="https://img.shields.io/badge/-_?style=flat-square&logo=parrotsecurity&logoColor=white&color=00C7FF" />
+</div>
 
 ---
 
@@ -41,10 +46,10 @@ Like everyone in tech, I'm a lifelong learner. I really enjoy scripting and auto
 
 *"I know this is useless, I just added it because I thought it looked cool." -JMayco*
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmayco&theme=dracula" alt="Detalhes do Perfil" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmayco&theme=dracula&hide_border=true" alt="Sequência de dias (Streak)" />
 </p>
